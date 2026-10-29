@@ -1,8 +1,5 @@
 # Mandip Prajapat — Developer & Engineering Portfolio
 
-A modern, professional portfolio website for **Mandip Prajapat**, B.Tech Computer Engineering student at **UTU Bardoli (Uka Tarsadia University)**.
-
-Inspired by clean, minimalist developer portfolio aesthetics (such as [Roshan's Portfolio](https://roshanvakodikar1310.github.io/Roshan_PortfolioWebsite/)), featuring crisp typography, vibrant blue accents, clean white backgrounds, rounded cards, and smooth hover effects.
 
 ---
 
